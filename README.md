@@ -1,0 +1,1 @@
+This is a project conducted at Hurwitz Lab to investigate topic modeling methods for clustering microbiomes and explore how the sparse nature of microbiomes differs from using these methods with text. First, we will download all of the taxa counts from the human microbiome data portal, then we will use these data to explore different methods to cluster based on body site.
